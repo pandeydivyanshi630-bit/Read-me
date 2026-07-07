@@ -1,4 +1,3 @@
-# Read-me
 <h1 align="center">Divyanshi Pandey this side </h1>
 
 <h3 align="center">BCA Student • Aspiring Developer | Code. Create. Grow. </h3>
@@ -6,13 +5,15 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/divyanshi-pandey-952385370?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto: pandeydivyanshi630@gmail.com<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://divyanshi pandey.github.io/resume/"><img src="https://img.shields.io/badge/Resume-View-8B5E3C?style=for-the-badge"></a>
+</p>
 
 ---
 
 ###  Overview
 
 - 🎓 **Currently:** BCA 3rd year, Amrapali University, Haldwani
-- 💼 **Experience:** AIML/Data Science Intern @ YBI Foundation | Content Writing Intern @ InAmigos Foundation
+- 💼 **Experience:**Web development intern at codsoft 
 - 🛠️ **Skills:** Python · HTML · CSS · JavaScript · PHP · Git & GitHub
 - 📍 **Based in:** Haldwani, Uttarakhand
 - 🌱 **Currently learning:** Web Development & how Artificial Intelligence works
@@ -21,11 +22,13 @@
 
 ###  About Me
 
-I'm a BCA student who loves both tech and creativity — from content writing to building web projects, I enjoy learning by doing.
+✨ Turning ideas into code
 
-Currently deep-diving into Full Stack Development and exploring new technologies. Also into video editing, Canva, and making things look good.✨
-
----
+👩‍💻 BCA Student & Aspiring Developer
+💙 Passionate about Web Development and Problem Solving
+🌱 Currently learning React, Python, and Git/GitHub
+🚀 Love creating projects that solve real-world problems
+📚 Learning something new every day
 
 ###  Tech Stack
 
